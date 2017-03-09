@@ -1,0 +1,3 @@
+[submodule "fwdpy"]
+	path = fwdpy
+	url = https://github.com/molpopgen/fwdpy
